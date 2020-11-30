@@ -17,6 +17,7 @@
     "build/three.js",
     "build/three.min.js",
     "build/three.module.js",
+    "build/three.mjs",
     "examples/js",
     "examples/jsm",
     "examples/fonts",
